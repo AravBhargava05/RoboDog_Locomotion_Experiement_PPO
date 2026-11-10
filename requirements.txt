@@ -1,0 +1,8 @@
+mo-gymnasium[mujoco]==1.3.2
+gymnasium==1.4.0
+stable-baselines3==2.9.2
+mujoco==4.0.0
+numpy==2.5.4
+matplotlib==3.11.2
+imageio[ffmpeg]==2.38.1
+torch==2.15.0

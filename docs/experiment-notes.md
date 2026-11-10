@@ -1,4 +1,8 @@
-# RoboDog: Mission-Constrained Reinforcement Learning (Speed vs Energy)
+# Historical experiment notes
+
+Preserved from the original README. The example scores below are historical reports, not results reproduced by the replacement training pipeline. Use the current [README](../README.md) for commands, dependencies, output paths, and the exact reward convention.
+
+## RoboDog: Mission-Constrained Reinforcement Learning (Speed vs Energy)
 
 This project trains a simulated “robot dog” (MO-HalfCheetah) to run fast while using less energy. Instead of optimizing a single reward, the environment returns a *vector reward* with two objectives:
 
